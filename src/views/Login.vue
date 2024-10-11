@@ -60,7 +60,7 @@ const submitForm = async () => {
                 plain: true,
             })
             setTimeout(() => {
-                router.push('/Home/workbench')
+                router.push('/Home/workbench/allStore')
             }, 1000)
         }
     } else {

@@ -9,7 +9,7 @@ const router = useRouter()
 
 const form = reactive({
     user: '1409815550@qq.com',
-    password: 'hachimidawang0.',
+    password: 'hachimixuegit.',
     checked: false,
     loginLoding: false
 });
